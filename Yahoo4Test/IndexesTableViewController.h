@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  IndexesTableViewController.h
 //  Yahoo4Test
 //
 //  Created by Denis on 30.03.16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface IndexesTableViewController : UITableViewController
 
 @end
-
